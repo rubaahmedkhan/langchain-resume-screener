@@ -86,4 +86,8 @@ Dynamic email is sent automatically to the candidate.
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f50bafe0-2541-4c86-ba23-88956239b14c" />
 
+### Demo
+
+[Demo Link](https://huggingface.co/spaces/RubaKhan242/resume)
+
 
