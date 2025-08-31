@@ -84,7 +84,7 @@ Based on the score:
 Dynamic email is sent automatically to the candidate.
 
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f50bafe0-2541-4c86-ba23-88956239b14c" />
+<img width="1536" height="1024" alt="image" src="https://github.com/rubaahmedkhan/langchain-resume-screener/blob/e40957354a10a7b5b96cf06982652a08ad3c9d96/AI%20(4).png" />
 
 ### Demo
 
